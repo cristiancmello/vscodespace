@@ -1,12 +1,9 @@
 # vscodespace for Windows
 
-<center>
-  <p>You need to have a workspace for Visual Studio Code!</p>
-</center>
-
-<center>
-  <img src="docs/png/intro.png" style="max-width: 80%; height: auto;" />
-</center>
+<p align="center">
+  <b>You need to have a workspace for Visual Studio Code!</b>
+  <img src="docs/png/intro.png" style="max-width: 20%; height: auto;" />
+</p>
 
 ## Requirements
 
@@ -34,7 +31,7 @@ Please, download [Vscodespace.Setup_win64.msi](https://github.com/cristiancmello
 
 ### 4. Installing Popular Extensions
 
-<img src="https://raw.githubusercontent.com/cristiancmello/vscodespace/master/docs/gif/3-install-popular-extensions.gif" style="max-width: 100%; height: auto;" />
+<img src="https://raw.githubusercontent.com/cristiancmello/vscodespace/master/docs/gif/3-install-popular-extensions.gif" style="max-width: 100%; height: auto;" /
 
 ### 5. Node, Yarn, NPM, Docker and Docker Compose installed
 
