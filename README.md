@@ -1,5 +1,13 @@
 # vscodespace
 
+You need to have a workspace for Visual Studio Code!
+
+## Requirements
+
+* [Vagrant 2.2 - Download Here](https://releases.hashicorp.com/vagrant/2.2.9/vagrant_2.2.9_x86_64.msi)
+* [Git for Windows 2.26 - Download Here](https://github.com/git-for-windows/git/releases/download/v2.26.2.windows.1/Git-2.26.2-64-bit.exe)
+* [VirtualBox 6.0.10 - Download Here](https://download.virtualbox.org/virtualbox/6.0.10/VirtualBox-6.0.10-132072-Win.exe)
+
 ## Download
 
 Please, download [Vscodespace.Setup_win64.msi](https://github.com/cristiancmello/vscodespace/releases/download/v1.0.0/Vscodespace.Setup_win64.msi).
