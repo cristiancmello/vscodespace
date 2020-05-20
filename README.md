@@ -1,6 +1,8 @@
-# vscodespace
+# vscodespace for Windows
 
-You need to have a workspace for Visual Studio Code!
+<p style="text-align: center">You need to have a workspace for Visual Studio Code!</p>
+
+![](docs/png/intro.png)
 
 ## Requirements
 
