@@ -31,7 +31,7 @@ Please, download [Vscodespace.Setup_win64.msi](https://github.com/cristiancmello
 
 ### 4. Installing Popular Extensions
 
-<img src="https://raw.githubusercontent.com/cristiancmello/vscodespace/master/docs/gif/3-install-popular-extensions.gif" style="max-width: 100%; height: auto;" /
+<img src="https://raw.githubusercontent.com/cristiancmello/vscodespace/master/docs/gif/3-install-popular-extensions.gif" style="max-width: 100%; height: auto;" />
 
 ### 5. Node, Yarn, NPM, Docker and Docker Compose installed
 
