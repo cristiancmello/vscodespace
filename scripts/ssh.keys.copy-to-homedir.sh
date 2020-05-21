@@ -1,5 +1,6 @@
 #!/bin/bash
 
+mkdir -p ~/.ssh
 cp ../keys/.ssh/vscodespace* ~/.ssh
 
 echo "
