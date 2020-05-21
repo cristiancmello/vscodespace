@@ -13,7 +13,7 @@
 
 ## Download
 
-Please, download [Vscodespace.Setup_win64.msi](https://github.com/cristiancmello/vscodespace/releases/download/v1.0.0/Vscodespace.Setup_win64.msi).
+Please, download [Vscodespace.Setup_win64.msi](https://github.com/cristiancmello/vscodespace/releases/download/1.0.5/Vscodespace.Setup_win64.msi).
 
 ## Instructions
 
