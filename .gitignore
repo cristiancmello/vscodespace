@@ -5,3 +5,5 @@ keys
 
 vscodescpace.code-workspace
 vscodespace-setup-x64-msi
+
+*.LNK
